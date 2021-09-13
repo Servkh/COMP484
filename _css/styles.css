@@ -112,3 +112,6 @@ blockquote {
 	float: left;
 	margin-right: 10px;
 }
+.learning-ul li{
+  font-weight: bold;
+}
