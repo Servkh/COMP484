@@ -115,3 +115,7 @@ blockquote {
 .learning-ul li{
   font-weight: bold;
 }
+.main-table dt{
+  font-weight: 700;
+  color: #1B5299;
+}
